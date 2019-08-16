@@ -1,0 +1,64 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="001" tvg-logo="https://i.mjh.nz/nz/images/tv.9.png" tvg-chno="1",TVNZ 1
+https://i.mjh.nz/nz/tv.9.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-id="002" tvg-logo="https://i.mjh.nz/nz/images/tv.10.png" tvg-chno="2",TVNZ 2
+https://i.mjh.nz/nz/tv.10.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-id="003" tvg-logo="https://i.mjh.nz/nz/images/tv.11.png" tvg-chno="3",Three
+https://i.mjh.nz/nz/tv.11.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-id="004" tvg-logo="https://i.mjh.nz/nz/images/tv.28.png" tvg-chno="10",PRIME
+https://i.mjh.nz/nz/tv.28.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-id="012" tvg-logo="https://i.mjh.nz/nz/images/tv.12.png" tvg-chno="4",Bravo
+https://i.mjh.nz/nz/tv.12.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-id="029" tvg-logo="https://i.mjh.nz/nz/images/tv.65.png" tvg-chno="11",ThreeLife
+https://i.mjh.nz/nz/tv.65.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-id="024" tvg-logo="https://i.mjh.nz/nz/images/tv.37.png" tvg-chno="12",Choice TV
+https://i.mjh.nz/nz/tv.37.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-id="023" tvg-logo="https://i.mjh.nz/nz/images/tv.55.png" tvg-chno="13",DUKE
+https://i.mjh.nz/nz/tv.55.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-id="090" tvg-logo="https://i.mjh.nz/nz/images/tv.46.png" tvg-chno="16",Al Jazeera
+https://i.mjh.nz/nz/tv.46.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-id="021" tvg-logo="https://i.mjh.nz/nz/images/tv.58.png" tvg-chno="17",HGTV
+https://i.mjh.nz/nz/tv.58.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:-1 tvg-id="086" tvg-logo="https://i.mjh.nz/nz/images/tv.18.png" tvg-chno="31",Parliament TV
+https://i.mjh.nz/nz/tv.18.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+
+#EXTINF:0 tvg-id="051" tvg-name="SKY_Sport_1", Sky Sport 1
+plugin://plugin.video.sky.sport.now/?_=play&media_id=60&media_type=channel&_l=.pvr
+
+#EXTINF:0 tvg-id="052" tvg-name="SKY_Sport_2", Sky Sport 2
+plugin://plugin.video.sky.sport.now/?_=play&media_id=61&media_type=channel&_l=.pvr
+
+#EXTINF:0 tvg-id="053" tvg-name="SKY_Sport_3", Sky Sport 3
+plugin://plugin.video.sky.sport.now/?_=play&media_id=62&media_type=channel&_l=.pvr
+
+#EXTINF:0 tvg-id="054" tvg-name="SKY_Sport_4", Sky Sport 4
+plugin://plugin.video.sky.sport.now/?_=play&media_id=63&media_type=channel&_l=.pvr
+
+#EXTINF:0 tvg-id="055" tvg-name="SKY_Sport_5", Sky Sport 5
+plugin://plugin.video.sky.sport.now/?_=play&media_id=83&media_type=channel&_l=.pvr
+
+#EXTINF:0 tvg-id="056" tvg-name="SKY_Sport_6", Sky Sport 6
+plugin://plugin.video.sky.sport.now/?_=play&media_id=84&media_type=channel&_l=.pvr
+
+#EXTINF:0 tvg-id="057" tvg-name="SKY_Sport_7", Sky Sport 7
+plugin://plugin.video.sky.sport.now/?_=play&media_id=85&media_type=channel&_l=.pvr
+
+#EXTINF:0 tvg-id="058" tvg-name="SKY_Sport_8", Sky Sport 8
+plugin://plugin.video.sky.sport.now/?_=play&media_id=86&media_type=channel&_l=.pvr
+
+#EXTINF:0 tvg-id="059" tvg-name="SKY_Sport_9", Sky Sport 9
+plugin://plugin.video.sky.sport.now/?_=play&media_id=87&media_type=channel&_l=.pvr
+
+#EXTINF:0 tvg-id="050" tvg-name="SKY_Sport_News", Sky Sport News
+plugin://plugin.video.sky.sport.now/?_=play&media_id=88&media_type=channel&_l=.pvr
+
