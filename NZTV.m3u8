@@ -1,0 +1,58 @@
+#EXTM3U x-tvg-url="https://i.mjh.nz/nz/epg.xml.gz"
+
+#EXTINF:-1 channel-id="1" tvg-logo="https://i.imgur.com/1ZjzjJ9.png" tvg-chno="1",TVNZ 1
+http://192.168.20.111:5004/auto/v1
+
+#EXTINF:-1 channel-id="2" tvg-logo="https://i.imgur.com/2syb4Lj.png" tvg-chno="2",TVNZ 2
+http://192.168.20.111:5004/auto/v2
+
+#EXTINF:-1 channel-id="3" tvg-logo="https://i.imgur.com/7aORBTh.png" tvg-chno="3",Three
+http://192.168.20.111:5004/auto/v3
+
+#EXTINF:-1 channel-id="4" tvg-logo="https://i.imgur.com/Z8x7764.png" tvg-chno="4",Bravo
+http://192.168.20.111:5004/auto/v4
+
+#EXTINF:-1 channel-id="5" tvg-logo="https://i.imgur.com/bE637LO.png" tvg-chno="5",Māori Television
+https://i.mjh.nz/nz/tv.13.m3u8
+
+#EXTINF:-1 channel-id="6" tvg-logo="https://i.imgur.com/gDTMLfu.png" tvg-chno="6",TVNZ 1 (+1)
+http://192.168.20.111:5004/auto/v6
+
+#EXTINF:-1 channel-id="7" tvg-logo="https://i.imgur.com/gDTMLfu.png" tvg-chno="7",TVNZ 2 (+1)
+http://192.168.20.111:5004/auto/v7
+
+#EXTINF:-1 channel-id="8" tvg-logo="https://i.imgur.com/gDTMLfu.png" tvg-chno="8",Three (+1)
+http://192.168.20.111:5004/auto/v8
+
+#EXTINF:-1 channel-id="9" tvg-logo="https://i.imgur.com/gDTMLfu.png" tvg-chno="9",Bravo (+1)
+http://192.168.20.111:5004/auto/v9
+
+#EXTINF:-1 channel-id="10" tvg-logo="https://i.imgur.com/iGub9YY.png" tvg-chno="10",Prime
+http://192.168.20.111:5004/auto/v10
+
+#EXTINF:-1 channel-id="11" tvg-logo="https://i.mjh.nz/nz/images/tv.65.png" tvg-chno="11",ThreeLife
+http://192.168.20.111:5004/auto/v11
+
+#EXTINF:-1 channel-id="12" tvg-logo="https://i.mjh.nz/nz/images/tv.37.png" tvg-chno="12",Choice TV
+http://192.168.20.111:5004/auto/v12
+
+#EXTINF:-1 channel-id="13" tvg-logo="https://i.mjh.nz/nz/images/tv.55.png" tvg-chno="13",DUKE
+http://192.168.20.111:5004/auto/v13
+
+#EXTINF:-1 channel-id="14" tvg-logo="https://i.imgur.com/gDTMLfu.png" tvg-chno="14",ThreeLife (+1)
+http://192.168.20.111:5004/auto/v14
+
+#EXTINF:-1 channel-id="15" tvg-logo="https://i.mjh.nz/nz/images/tv.20.png" tvg-chno="15",Te Reo
+http://192.168.20.111:5004/auto/v15
+
+#EXTINF:-1 channel-id="16" tvg-logo="https://i.mjh.nz/nz/images/tv.46.png" tvg-chno="16",Al Jazeera
+https://i.mjh.nz/nz/tv.46.m3u8
+
+#EXTINF:-1 channel-id="17" tvg-logo="https://i.mjh.nz/nz/images/tv.58.png" tvg-chno="17",HGTV
+http://192.168.20.111:5004/auto/v17
+
+#EXTINF:-1 channel-id="20" tvg-logo="https://i.mjh.nz/nz/images/tv.45.png" tvg-chno="18",TVSN Shopping
+http://192.168.20.111:5004/auto/v20
+
+#EXTINF:-1 channel-id="31" tvg-logo="https://i.mjh.nz/nz/images/tv.18.png" tvg-chno="19",Parliament TV
+http://192.168.20.111:5004/auto/v31
